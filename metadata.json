@@ -1,0 +1,5 @@
+{
+  "name": "Mini Inventory Management",
+  "description": "A simple inventory management system built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
